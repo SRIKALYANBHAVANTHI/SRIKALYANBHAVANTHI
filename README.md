@@ -1,6 +1,6 @@
 # Hi, I'm Srikalyan Bhavanthi 👋
 
-**Software Engineer | Python • SQL • Full-Stack Development • Machine Learning**
+**Software Engineer | Java • SQL • Full-Stack Development • Machine Learning**
 
 I build practical software applications, backend services, and data-driven solutions. My interests include Python development, database engineering, full-stack applications, and applying machine learning to real-world problems.
 
